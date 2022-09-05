@@ -1,3 +1,3 @@
 # Alura Plus
 
-Curso de "JavaScript para Web: Crie páginas dinâmicas" da Alura
+Curso de "HTML e CSS: praticando HTML/CSS" da Alura
